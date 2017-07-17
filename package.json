@@ -11,6 +11,10 @@
     "node": "*"
   },
   "dependencies": {
+    "jstoxml": "^0.2.4",
     "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "express": "^4.15.3"
   }
 }
