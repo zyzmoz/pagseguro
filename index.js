@@ -1,1 +1,1 @@
-module.exports = require(__dirname + '/lib/pagseguro');
+module.exports = require('./lib/pagseguro');
